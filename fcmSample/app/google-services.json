@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1085117735010",
+    "firebase_url": "https://mystudy-subject1.firebaseio.com",
+    "project_id": "mystudy-subject1",
+    "storage_bucket": "mystudy-subject1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085117735010:android:470f27d5ecf8d31006313b",
+        "android_client_info": {
+          "package_name": "com.kt.mystudy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085117735010-5j24ifm02an12eda832a1a6ucshkbosa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqEpyC_vhC0PfEhka35AwdaBMxhDZaxPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085117735010-5j24ifm02an12eda832a1a6ucshkbosa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085117735010:android:9ff243ea73c4eb53",
+        "android_client_info": {
+          "package_name": "study.kt.rxvolley"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085117735010-5j24ifm02an12eda832a1a6ucshkbosa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqEpyC_vhC0PfEhka35AwdaBMxhDZaxPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085117735010-5j24ifm02an12eda832a1a6ucshkbosa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
